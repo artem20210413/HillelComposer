@@ -1,0 +1,16 @@
+{
+    "name": "ahillel/math",
+    "autoload": {
+        "psr-4": {
+            "Ahillel\\Math\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HillelArtemTishchenko"
+        }
+    ],
+    "require": {
+        "php": "8.*"
+    }
+}
